@@ -1,3 +1,6 @@
+# DECEPERATED
+Deceperated. This package can no longer be used.
+
 # Photop Client
 Photop Client is a library for creating bots for Photop. It works directly with the WebSocket instead of html to deliver minimal memory impact and ease of use.
 
